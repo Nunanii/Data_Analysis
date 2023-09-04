@@ -1,0 +1,24 @@
+About Dataset
+
+Description: This dataset contains information on the performance of high school students in mathematics, reading and writing.
+
+Columns:
+
+• Gender: The gender of the student (male/female)
+
+• Study group: The student's study group (Group A, B, C, D, E)
+
+• Lunch: Whether the student receives free or reduced-price lunch (yes/no)
+
+• Test preparation course: Whether the student completed a test preparation course (yes/no)
+
+• Math score: The student's score on a standardized mathematics test
+
+• Reading score: The student's score on a standardized reading test
+
+• Writing score: The student's score on a standardized writing test
+
+
+This dataset could be used to develop machine learning models to predict student performance based on demographic and other factors.
+
+source: http://roycekimmons.com/tools/generated_data/exams
